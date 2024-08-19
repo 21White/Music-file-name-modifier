@@ -5,5 +5,6 @@ Keep only the name of the song in the music file you downloaded from Kugou, QQ, 
 
 从酷狗、QQ音乐下载歌曲的时候文件的名称总是 所有歌手名字 - 歌曲名称 的形式，实在看着太不顺眼，且难以分类，故用python写了一份批量修改文件名的脚本，亲测好用！分享给大家。
 
-# e.g.  Alan Walker、Sabrina Carpenter、Farruko - On My Way (Explicit).mp3  ->  On My Way (Explicit).mp3
-#       刘惜君 - 遥远的歌.mp3  ->  遥远的歌.mp3
+# e.g.  
+#     Alan Walker、Sabrina Carpenter、Farruko - On My Way (Explicit).mp3  ->  On My Way (Explicit).mp3
+#     刘惜君 - 遥远的歌.mp3  ->  遥远的歌.mp3
